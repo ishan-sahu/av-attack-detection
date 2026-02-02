@@ -1,0 +1,12 @@
+**pretrained_models/
+**__pycache__
+**.pyc
+**results/
+**recordings/
+**.DS_Store
+**.pkl
+**.pickle
+!safety/attacks/snal/data/candidates.pickle
+**.pt
+**.log
+

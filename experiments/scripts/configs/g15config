@@ -1,0 +1,4 @@
+CARLA_ROOT="/home/ishan/dev/carla"
+WORK_DIR="/home/ishan/dev/repos/github/av-attack-detection"
+MYHOST="192.168.1.14"
+MYPORT="2000"

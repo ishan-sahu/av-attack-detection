@@ -1,0 +1,16 @@
+$env:CARLA_ROOT="C:\dev\carla\CARLA_0.9.10.1\WindowsNoEditor\"
+$env:WORK_DIR="C:\dev\ishan\repos\av-attack-detection-508319cbc0bfb39dda95bc94c0970ec2884b2de8\"
+$env:SERVER_WORK_DIR="C:\dev\ishan\repos\av-attack-detection-508319cbc0bfb39dda95bc94c0970ec2884b2de8\"
+$env:MYHOST="localhost"
+$env:MYPORT="2000"
+$_TEAM_AGENT="safety/transfuser_adversarial.py"
+$_TEAM_MODEL="safety/attacks/poltergeist"
+$_ROUTES_PATH="longest6/longest6.xml"
+$_SCENARIOS_PATH="longest6/eval_scenarios.json"
+$_CHECKPOINT_PATH="results/adv_results_transfuser_longest6.json"
+$_RECORD_PATH="recordings/polter-0"
+$_REPETITIONS=1
+$_CHALLENGE_TRACK_CODENAME="SENSORS"
+$_DEBUG_CHALLENGE=0
+$_RESUME=0
+$_DATAGEN=0

@@ -1,0 +1,9 @@
+{
+    "attack":"snal", 
+    "agent":"drivers/team_code_interfuser/interfuser_agent.py", 
+    "agent_config":"drivers/team_code_interfuser/interfuser_config.py",
+    "num_skip_frames":0,
+    "disp_interface":0,
+    "candidates_list_file":"/home/ishan/dev/repos/github/av-attack-detection/safety/attacks/snal/data/candidates.pickle",
+    "eps_n":8
+}

@@ -1,0 +1,8 @@
+{
+    "attack":"esia", 
+    "agent":"drivers/team_code_transfuser/submission_agent.py", 
+    "agent_config":"drivers/pretrained_models/transfuser",
+    "num_skip_frames":0,
+    "disp_interface":0,
+    "severity":1
+}

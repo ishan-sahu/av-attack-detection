@@ -1,0 +1,7 @@
+{
+    "attack":"poltergeist", 
+    "agent":"drivers/team_code_interfuser/interfuser_agent.py", 
+    "agent_config":"drivers/team_code_interfuser/interfuser_config.py",
+    "num_skip_frames":0,
+    "disp_interface":0
+}

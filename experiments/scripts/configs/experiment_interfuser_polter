@@ -1,0 +1,16 @@
+CARLA_ROOT="/home/ishan/dev/carla/CARLA_0.9.10.1"
+WORK_DIR="/home/ishan/dev/repos/github/av-attack-detection"
+SERVER_WORK_DIR="/home/ishan/dev/repos/github/av-attack-detection"
+MYHOST="192.168.0.201"
+MYPORT="2000"
+_TEAM_AGENT="safety/interfuser_adversarial_polter.py"
+_TEAM_MODEL="experiments/scripts/configs/interfuser/poltergeist"
+_ROUTES_PATH="longest6/longest6_split/longest_weathers_0.xml"
+_SCENARIOS_PATH="longest6/eval_scenarios.json"
+_CHECKPOINT_PATH="results/polter_results_interfuser_longest6.json"
+_RECORD_PATH="recordings/"
+_REPETITIONS=1
+_CHALLENGE_TRACK_CODENAME=SENSORS
+_DEBUG_CHALLENGE=0
+_RESUME=0
+_DATAGEN=0
