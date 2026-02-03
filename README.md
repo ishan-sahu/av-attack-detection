@@ -160,10 +160,8 @@ This codebase is based on following codebases:
 The codebase could be organized and structured in a more user-friendly way. We could do so much till submission deadline. However, we are planning to release more structured code later.
 
 ## Citations
-If you find this repository useful, please consider giving us a star &#127775;.
 Please cite the following paper for our repository:
 
-:
 ```BibTeX
 @InProceedings{sahu2026wacv,
   title={},
@@ -172,3 +170,5 @@ Please cite the following paper for our repository:
   year={2026}
 }
 ```
+
+If you find this repository useful, please consider giving us a star &#127775;.
