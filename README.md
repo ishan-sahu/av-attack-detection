@@ -1,4 +1,16 @@
+# [WACV 2026, Algorithms Track] AD<sup>2</sup>: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems
+
 # Autonomous Vehicle Attack and Detection
+
+## Contents
+1. [Dependencies](#dependencies)
+2. [Setup](#setup)
+3. [Usage](#usage)
+    - [Evaluation of driving agents](#evaluation-of-driving-agents)
+    - [Dataset generation and preparation](#dataset-generation-and-preparation)
+    - [Detection model training and testing](#detection-model-training-and-testing)
+4. [Acknowledgement](#acknowledgement)
+5. [Citations](#citations)
 
 ## Dependencies
 
@@ -9,7 +21,7 @@
 For complete list, check the respective requirements.txt file.
 
 ## Setup
-1. Download carla 0.9.10.1 https://github.com/carla-simulator/carla/releases/tag/0.9.10.1 
+1. Download carla 0.9.10.1 https://github.com/carla-simulator/carla/releases/tag/0.9.10.1
 2. Download this codebase.
 3. Create and install the required python enviroment. See docs/setup notes for details.
 4. Create two folders results and recordings in the base code folder where simulation results and recordings are saved respectively by default. 
@@ -146,3 +158,17 @@ This codebase is based on following codebases:
 
 ### Limitations
 The codebase could be organized and structured in a more user-friendly way. We could do so much till submission deadline. However, we are planning to release more structured code later.
+
+## Citations
+If you find this repository useful, please consider giving us a star &#127775;.
+Please cite the following paper for our repository:
+
+:
+```BibTeX
+@InProceedings{sahu2026wacv,
+  title={},
+  author={},
+  booktitle={},
+  year={2026}
+}
+```
