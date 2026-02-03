@@ -1,4 +1,4 @@
-# [WACV 2026, Algorithms Track] AD<sup>2</sup>: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems
+# [WACV 2026, Main (Algorithms Track)] AD<sup>2</sup>: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems
 
 <p align="center">
   <h3 align="center">
