@@ -1,6 +1,29 @@
 # [WACV 2026, Algorithms Track] AD<sup>2</sup>: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems
 
-# Autonomous Vehicle Attack and Detection
+<p align="center">
+  <h3 align="center">
+    <a href="https://"> Paper</a> | <a href="https://ishansahu.com/">Website</a> 
+  </h3>
+</p>
+
+In this work, we conduct a closed-loop evaluation of state-of-the-art 
+autonomous driving agents under black-box adversarial threat models in CARLA. Specifically, we consider three representative attack vectors on the visual perception pipeline: 
+1. a physics-based blur attack induced by acoustic waves, 
+2. an electromagnetic interference attack that distorts captured images, and
+3. a digital attack that adds ghost objects as carefully crafted bounded perturbations on images. 
+
+We experiment with two advanced agents:
+1. Transfuser
+2. Interfuser
+
+Our study reveals severe vulnerabilities to such attacks, with driving scores
+dropping by up to 99% in the worst case, raising valid safety
+concerns. To help mitigate such threats, we further propose
+a lightweight Attack Detection model for Autonomous Driving systems (AD<sup>2</sup>) based on attention mechanisms that capture spatial–temporal consistency. 
+
+<p align="center">
+  <img src="docs/assets/intro_fig.png">
+</p>
 
 ## Contents
 1. [Dependencies](#dependencies)
@@ -156,17 +179,14 @@ This codebase is based on following codebases:
 * Scenario Runner https://github.com/carla-simulator/scenario_runner/tree/leaderboard-1.0
 * Adversarial Robustness Toolbox https://github.com/Trusted-AI/adversarial-robustness-toolbox 
 
-### Limitations
-The codebase could be organized and structured in a more user-friendly way. We could do so much till submission deadline. However, we are planning to release more structured code later.
-
 ## Citations
 Please cite the following paper for our repository:
 
 ```BibTeX
 @InProceedings{sahu2026wacv,
-  title={},
-  author={},
-  booktitle={},
+  title={{AD$^2$}: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems},
+  author={Sahu, Ishan and Hazra, Somnath and Aditya, Somak and Dey, Soumyajit}, 
+  booktitle={Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
   year={2026}
 }
 ```
