@@ -2,7 +2,7 @@
 
 <p align="center">
   <h3 align="center">
-    <a href="https://"> Paper</a> | <a href="https://ishansahu.com/research/ad2">Website</a> 
+    <a href="https://arxiv.org/abs/2602.10160"> Paper</a> | <a href="https://ishansahu.com/research/ad2">Website</a> 
   </h3>
 </p>
 
